@@ -21,3 +21,11 @@ showSlide(current - 1);
 setInterval(()=>{
 showSlide(current + 1);
 },4000);
+
+const rightArrow = document.querySelector(".arrow.right");
+
+if(rightArrow){
+    rightArrow.onclick = () => {
+        showSlide(current + 1);
+    };
+}
