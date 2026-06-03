@@ -1,1 +1,1 @@
-college event managemnt
+college event management
