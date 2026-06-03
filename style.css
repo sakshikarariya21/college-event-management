@@ -84,12 +84,16 @@ font-size:24px;
 /* CALL BUTTON */
 
 .btn{
-padding:8px 20px;
-background:white;
-border:none;
-border-radius:4px;
-cursor:pointer;
+    background: orange;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
 }
+
 
 .btn{
 background:#F57C00;
